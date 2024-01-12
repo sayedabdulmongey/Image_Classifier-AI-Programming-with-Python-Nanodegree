@@ -58,4 +58,4 @@ In order to have a prediction for an image located in the path /path/to/image us
 
 
 ## Finally 
-### [Certification](confirm.udacity.com/e/7a46d530-6c23-11ee-a38b-d30991bd2d11)
+### [Certification](https://graduation.udacity.com/confirm/e/7a46d530-6c23-11ee-a38b-d30991bd2d11)
