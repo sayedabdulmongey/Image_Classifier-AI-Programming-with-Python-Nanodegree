@@ -21,3 +21,9 @@ An image classifier project involves creating an artificial intelligence model c
 - **Deployment:** Once satisfied with performance, the model can be deployed for real-world use.
 
 Image classifier projects are prevalent in various domains, contributing to advancements in healthcare, security, and computer vision. With advancements in deep learning and powerful frameworks like TensorFlow and PyTorch, building and deploying image classifiers has become more accessible for developers and researchers.
+
+# Flower Recognition with Pre-trained Models
+
+## Introduction
+
+The Flower Recognition project is designed to create an image classifier capable of identifying various flower species from a dataset containing 102 flower categories. This project utilizes the power of pre-trained models, specifically VGG16 and VGG13, to streamline the development process by leveraging knowledge gained from extensive training on large-scale image datasets.
